@@ -1,2 +1,2 @@
 # Doccure
-A website made for doctos and patients to interact
+A website made for doctors and patients to interact
